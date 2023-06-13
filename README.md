@@ -7,7 +7,7 @@ composer require cweagans/composer-patches --dev
 composer require symplify/vendor-patches --dev
 ```
 # Pasos
-Crea una carpeta "path" y copia los archivos (PY.JSON y commerceguys-addressing-src-addressformat-addressformatrepository-php.patch) adentro y agrega en el archivo composer.json lo siguiente:
+Crea una carpeta "patches" y copia los archivos (PY.JSON y commerceguys-addressing-src-addressformat-addressformatrepository-php.patch) adentro y agrega en el archivo composer.json lo siguiente:
 1. Sección "scripts" en caso de actualizaciones para volver a copiar datos de subdivisón en la librería.
 ```javascript
 "scripts": {
