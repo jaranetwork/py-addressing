@@ -30,3 +30,7 @@ Crea una carpeta "path" y copia los archivos (PY.JSON y commerceguys-addressing-
         "enable-patching": true,
         "composer-exit-on-patch-failure": true,
  ```
+ 3. Ejecutar.
+```javascript
+composer install
+```
