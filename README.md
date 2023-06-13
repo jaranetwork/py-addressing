@@ -1,5 +1,5 @@
 # Departamentos de Paraguay
-Agrega departamentos de Paraguay a la librería addressing en Drupal Commerce.
+Agrega departamentos de Paraguay a la librería addressing en Drupal Commerce, mientras esperamos que los desarrolladores de la librería agreguen estos datos.
 # Requerimientos
 Ejecutar en la terminal.
 ```javascript
