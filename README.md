@@ -1,5 +1,5 @@
 # Departamentos de Paraguay
-Agrega departamentos de Paraguay a la librería addressing en Drupal Commerce, ya incorporado en la version [2.0.1](https://github.com/commerceguys/addressing/blob/v2.0.1/resources/subdivision/PY.json), ésta librería es incorporado por el módulo [address](https://www.drupal.org/project/address) que es una dependencia de commerce core pero aún con la versión 2.0 de addressing.
+Agrega departamentos de Paraguay a la librería addressing en Drupal Commerce, ya agregado en la version [2.0.1](https://github.com/commerceguys/addressing/blob/v2.0.1/resources/subdivision/PY.json), ésta librería es incorporado por el módulo [address](https://www.drupal.org/project/address) que es una dependencia de commerce core pero aún con la versión 2.0 de addressing.
 # Requerimientos
 Ejecutar en la terminal.
 ```javascript
